@@ -5,7 +5,7 @@ class Centre < Formula
   license "MIT"
 
   url "https://github.com/josepmed/centre/releases/download/v1.0.0/centre-1.0.0-arm64-apple-darwin.tar.gz"
-  sha256 "PLACEHOLDER_ARM64_SHA"
+  sha256 "769c2586ab0327bd4c12e7662226b3131730210c901f568a50eb4c47fd23406e"
 
   def install
     bin.install "centre"
