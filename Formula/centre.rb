@@ -1,11 +1,11 @@
 class Centre < Formula
   desc "A calm, terminal-based daily focus manager with time tracking"
   homepage "https://github.com/josepmed/centre"
-  version "1.1.4"
+  version "1.1.5"
   license "MIT"
 
-  url "https://github.com/josepmed/centre/releases/download/v1.1.4/centre-1.1.4-arm64-apple-darwin.tar.gz"
-  sha256 "e6ea95a806a2a0044c3cd44d1e719d18d00c730ba8e2636e0da8ed7982b83184"
+  url "https://github.com/josepmed/centre/releases/download/v1.1.5/centre-1.1.5-arm64-apple-darwin.tar.gz"
+  sha256 "14f427fbf7f1798cd5ebdd808482f28c882362f6b0eb37629e1c02504a9a3f3c"
 
   def install
     bin.install "centre"
